@@ -1,0 +1,232 @@
+{
+    "status_code": 200,
+    "status_message": "Success",
+    "count": 25,
+    "data": [
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Ebay.In",
+            "Best_Price": "17,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 (E700H) Black",
+            "Product_Color": "",
+            "Uri": "http://www.ebay.in/itm/Samsung-Galaxy-E7-E700H-Black-/121851383712?hash=item1c5ee88fa0:g:ppQAAOSwJcZWgiB6"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Amazon",
+            "Best_Price": "19,000.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 (Black, 16GB)",
+            "Product_Color": "",
+            "Uri": "http://www.amazon.in/Samsung-Galaxy-E7-Black-16GB/dp/B00SKVIJVI/"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Flipkart",
+            "Best_Price": "19,500.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7",
+            "Product_Color": "",
+            "Uri": "http://dl.flipkart.com/dl/samsung-galaxy-e7/p/itme7zjgyhqvbhqb?pid=MOBE3UN6MWTHGZ53"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "16,199.00",
+            "In_Stock": "Yes",
+            "Product_Name": "SAMSUNG GALAXY E7",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-galaxy-e7-20.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Paytm",
+            "Best_Price": "14,600.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 (Blue)",
+            "Product_Color": "",
+            "Uri": "http://paytm.com/shop/p/samsung-galaxy-e7-blue-MOBSAMSUNG-GALASG-C83202D14D1427"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Indiatimes Shopping",
+            "Best_Price": "16,064.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 (Blue)",
+            "Product_Color": "",
+            "Uri": "http://shopping.indiatimes.com/mobiles/samsung/samsung-galaxy-e7-blue-/25014/p_B4542361"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Croma Retail",
+            "Best_Price": "16,999.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 E700H (Black)",
+            "Product_Color": "",
+            "Uri": "http://www.cromaretail.com/Samsung-Galaxy-E7-E700H-(Black)-PC-25392-95.aspx"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Homeshop18",
+            "Best_Price": "17,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 - E700H Dual Sim Mobile Phone",
+            "Product_Color": "",
+            "Uri": "http://www.homeshop18.com/samsung-galaxy-e7-e700h-dual-sim-mobile-phone/mobiles/mobile-phones/product:33016883/cid:3027/"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Poorvikamobile",
+            "Best_Price": "15,500.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 - E700",
+            "Product_Color": "",
+            "Uri": "http://www.poorvikamobile.com/samsung-galaxy-e7-e700"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Saholic",
+            "Best_Price": "17,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 E700H",
+            "Product_Color": "",
+            "Uri": "http://www.saholic.com/mobile-phones/samsung-galaxy-e7-e700h-1012308"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Ebay.In",
+            "Best_Price": "17,999.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 - Black Colour Smartphone | 13 + 5 MP Camera, 16 GB ROM",
+            "Product_Color": "",
+            "Uri": "http://www.ebay.in/itm/Samsung-Galaxy-E7-Black-Colour-Smartphone-13-5-MP-Camera-16-GB-ROM-/281889699734?hash=item41a1ef7796:g:po8AAOSwxN5WaH6G"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Ebay.In",
+            "Best_Price": "18,390.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 (Black) | 1 Year Samsung India Mfg Warranty",
+            "Product_Color": "",
+            "Uri": "http://www.ebay.in/itm/Samsung-Galaxy-E7-Black-1-Year-Samsung-India-Mfg-Warranty-/131441644796?hash=item1e9a8854fc:g:BdQAAOSwqu9U8ZSo"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Ebay.In",
+            "Best_Price": "19,990.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 16GB Smart Phone - 1 Year Samsung India Manufacturer Warranty",
+            "Product_Color": "",
+            "Uri": "http://www.ebay.in/itm/Samsung-Galaxy-E7-16GB-Smart-Phone-1-Year-Samsung-India-Manufacturer-Warranty-/321686134935?hash=item4ae5fce097:g:n58AAOSwBahU9vLA"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Ebay.In",
+            "Best_Price": "19,990.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 16GB Smart Phone - 1 Year Samsung India Manufacturer Warranty",
+            "Product_Color": "",
+            "Uri": "http://www.ebay.in/itm/Samsung-Galaxy-E7-16GB-Smart-Phone-1-Year-Samsung-India-Manufacturer-Warranty-/321686134023?hash=item4ae5fcdd07:g:ZhwAAOSwPYZU~8yC"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "16,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/galaxy-e7.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "16,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-galaxy-e7-15.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "16,500.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-e7-29.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "16,700.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-galaxy-e7-white.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "17,199.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-galaxy-e7-22.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "17,199.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-galaxy-e7-23.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "19,790.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-e7-6.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Shopclues",
+            "Best_Price": "19,790.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://www.shopclues.com/samsung-e7-7.html"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Paytm",
+            "Best_Price": "16,544.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://paytm.com/shop/p/samsung-galaxy-e7-white-MOBSAMSUNG-GALASG-C83202A682EBEA"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Paytm",
+            "Best_Price": "16,682.00",
+            "In_Stock": "Yes",
+            "Product_Name": "",
+            "Product_Color": "",
+            "Uri": "http://paytm.com/shop/p/samsung-galaxy-e7-black-MOBSAMSUNG-GALADEAL68319A7D275C9"
+        },
+        {
+            "PriceTree_Id": 125805,
+            "Seller_Name": "Croma Retail",
+            "Best_Price": "17,400.00",
+            "In_Stock": "Yes",
+            "Product_Name": "Samsung Galaxy E7 E700 GSM (Dual SIM) (White)",
+            "Product_Color": "",
+            "Uri": "http://www.cromaretail.com/Samsung-Galaxy-E7-E700-GSM-(Dual-SIM)-(White)-PC-25062-95.aspx"
+        }
+    ]
+}
